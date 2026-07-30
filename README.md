@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-himanshu08/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/dev-himanshu08/Leetcode/tree/master/0058-length-of-last-word) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/dev-himanshu08/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dev-himanshu08/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dev-himanshu08/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
