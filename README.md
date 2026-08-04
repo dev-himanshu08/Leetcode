@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/dev-himanshu08/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/dev-himanshu08/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dev-himanshu08/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dev-himanshu08/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dev-himanshu08/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 ## Number Theory
 |  |
 | ------- |
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
