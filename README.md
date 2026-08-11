@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dev-himanshu08/Leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev-himanshu08/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dev-himanshu08/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
