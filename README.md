@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dev-himanshu08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dev-himanshu08/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/dev-himanshu08/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev-himanshu08/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-himanshu08/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
@@ -259,4 +263,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-himanshu08/Leetcode/tree/master/0042-trapping-rain-water) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
