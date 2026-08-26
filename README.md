@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/dev-himanshu08/Leetcode/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/dev-himanshu08/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/dev-himanshu08/Leetcode/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
