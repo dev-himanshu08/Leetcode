@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
+| [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dev-himanshu08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
+| [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
