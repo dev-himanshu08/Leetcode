@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dev-himanshu08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-himanshu08/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dev-himanshu08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
 | [0413-arithmetic-slices](https://github.com/dev-himanshu08/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 ## Hash Table
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dev-himanshu08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-himanshu08/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/dev-himanshu08/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-himanshu08/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,10 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
