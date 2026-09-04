@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/dev-himanshu08/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
+| [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
