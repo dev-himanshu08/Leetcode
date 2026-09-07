@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0567-permutation-in-string) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Two Pointers
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Number Theory
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## Trie
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
