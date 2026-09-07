@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Math
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/dev-himanshu08/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
