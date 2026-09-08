@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/dev-himanshu08/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
