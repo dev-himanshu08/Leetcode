@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dev-himanshu08/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dev-himanshu08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dev-himanshu08/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/dev-himanshu08/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
