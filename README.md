@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dev-himanshu08/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0306-additive-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Sorting
