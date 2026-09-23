@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dev-himanshu08/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/dev-himanshu08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dev-himanshu08/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/dev-himanshu08/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-himanshu08/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev-himanshu08/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-himanshu08/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -492,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
