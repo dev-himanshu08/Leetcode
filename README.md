@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/dev-himanshu08/Leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Number Theory
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dev-himanshu08/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/dev-himanshu08/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Sorting
