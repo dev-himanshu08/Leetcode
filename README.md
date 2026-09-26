@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/dev-himanshu08/Leetcode/tree/master/0457-circular-array-loop) |
 | [0473-matchsticks-to-square](https://github.com/dev-himanshu08/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/dev-himanshu08/Leetcode/tree/master/0475-heaters) |
+| [0491-non-decreasing-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/dev-himanshu08/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/dev-himanshu08/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Number Theory
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/dev-himanshu08/Leetcode/tree/master/0457-circular-array-loop) |
+| [0491-non-decreasing-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/dev-himanshu08/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/dev-himanshu08/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Sorting
