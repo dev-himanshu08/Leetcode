@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/dev-himanshu08/Leetcode/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/dev-himanshu08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-himanshu08/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/dev-himanshu08/Leetcode/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 ## Sorting
 |  |
 | ------- |
