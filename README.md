@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/dev-himanshu08/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/dev-himanshu08/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 ## Sorting
 |  |
 | ------- |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Enumeration
+|  |
+| ------- |
+| [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 <!---LeetCode Topics End-->
