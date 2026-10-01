@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -575,4 +578,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
+| [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 <!---LeetCode Topics End-->
