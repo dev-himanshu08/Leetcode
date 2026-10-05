@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dev-himanshu08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-split-array-into-fibonacci-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/dev-himanshu08/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Sorting
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Queue
 |  |
 | ------- |
