@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dev-himanshu08/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/dev-himanshu08/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/dev-himanshu08/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Mixed Knapsack
 |  |
 | ------- |
