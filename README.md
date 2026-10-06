@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-himanshu08/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dev-himanshu08/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/dev-himanshu08/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/dev-himanshu08/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 ## Sorting
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/dev-himanshu08/Leetcode/tree/master/0638-shopping-offers) |
+| [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -590,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-ambiguous-coordinates](https://github.com/dev-himanshu08/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0949-largest-time-for-given-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+## Mixed Knapsack
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
