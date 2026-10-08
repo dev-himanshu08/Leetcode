@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dev-himanshu08/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/dev-himanshu08/Leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-himanshu08/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/dev-himanshu08/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/dev-himanshu08/Leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
@@ -605,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+## Design
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
