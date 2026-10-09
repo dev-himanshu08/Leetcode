@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dev-himanshu08/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/dev-himanshu08/Leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1238-circular-permutation-in-binary-representation](https://github.com/dev-himanshu08/Leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/dev-himanshu08/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/dev-himanshu08/Leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Memoization
 |  |
 | ------- |
