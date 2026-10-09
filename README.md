@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-himanshu08/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/dev-himanshu08/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/dev-himanshu08/Leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-iterator-for-combination](https://github.com/dev-himanshu08/Leetcode/tree/master/1286-iterator-for-combination) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/dev-himanshu08/Leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
