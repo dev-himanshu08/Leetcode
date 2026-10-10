@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Number Theory
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
