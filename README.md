@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dev-himanshu08/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dev-himanshu08/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dev-himanshu08/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/dev-himanshu08/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/dev-himanshu08/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/dev-himanshu08/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/dev-himanshu08/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/dev-himanshu08/Leetcode/tree/master/0473-matchsticks-to-square) |
