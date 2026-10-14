@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dev-himanshu08/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/dev-himanshu08/Leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dev-himanshu08/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/dev-himanshu08/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
