@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dev-himanshu08/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-himanshu08/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dev-himanshu08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
