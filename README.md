@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/dev-himanshu08/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-himanshu08/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0390-elimination-game) |
 ## String
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dev-himanshu08/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-himanshu08/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dev-himanshu08/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0390-elimination-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0390-elimination-game) |
 | [0679-24-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0679-24-game) |
 | [0837-new-21-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
