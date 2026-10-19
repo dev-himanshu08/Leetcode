@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/dev-himanshu08/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/dev-himanshu08/Leetcode/tree/master/0457-circular-array-loop) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-himanshu08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/dev-himanshu08/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/dev-himanshu08/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/dev-himanshu08/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Complete Knapsack
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -675,4 +680,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
