@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dev-himanshu08/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dev-himanshu08/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1774-closest-dessert-cost](https://github.com/dev-himanshu08/Leetcode/tree/master/1774-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/dev-himanshu08/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/dev-himanshu08/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dev-himanshu08/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/dev-himanshu08/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dev-himanshu08/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/dev-himanshu08/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dev-himanshu08/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dev-himanshu08/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -717,4 +721,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/dev-himanshu08/Leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dev-himanshu08/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
