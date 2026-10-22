@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/dev-himanshu08/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Math
 |  |
 | ------- |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Merge Sort
 |  |
 | ------- |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
