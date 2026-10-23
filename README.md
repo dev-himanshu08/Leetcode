@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0212-word-search-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Algorithm X
 |  |
 | ------- |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
