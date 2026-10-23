@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/dev-himanshu08/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0212-word-search-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Algorithm X
 |  |
 | ------- |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/dev-himanshu08/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/dev-himanshu08/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/dev-himanshu08/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
