@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-himanshu08/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/dev-himanshu08/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Math
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Directed Acyclic Graph
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Bellman–Ford Algorithm
