@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/dev-himanshu08/Leetcode/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0212-word-search-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
