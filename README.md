@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/dev-himanshu08/Leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dev-himanshu08/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dev-himanshu08/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
