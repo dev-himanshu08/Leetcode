@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-himanshu08/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/dev-himanshu08/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dev-himanshu08/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
