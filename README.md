@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Merge Sort
 |  |
 | ------- |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/dev-himanshu08/Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/dev-himanshu08/Leetcode/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
