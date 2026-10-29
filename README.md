@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/dev-himanshu08/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/dev-himanshu08/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dev-himanshu08/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dev-himanshu08/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dev-himanshu08/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dev-himanshu08/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-himanshu08/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dev-himanshu08/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
