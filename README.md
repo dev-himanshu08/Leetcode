@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dev-himanshu08/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dev-himanshu08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dev-himanshu08/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dev-himanshu08/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dev-himanshu08/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dev-himanshu08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dev-himanshu08/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/dev-himanshu08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0212-word-search-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/dev-himanshu08/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
