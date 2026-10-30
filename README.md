@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/dev-himanshu08/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dev-himanshu08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dev-himanshu08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/dev-himanshu08/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
