@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dev-himanshu08/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/dev-himanshu08/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/dev-himanshu08/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dev-himanshu08/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dev-himanshu08/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/dev-himanshu08/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0140-word-break-ii) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dev-himanshu08/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/dev-himanshu08/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
@@ -796,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/dev-himanshu08/Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/dev-himanshu08/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/dev-himanshu08/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
