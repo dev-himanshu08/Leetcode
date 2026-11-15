@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dev-himanshu08/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dev-himanshu08/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dev-himanshu08/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/dev-himanshu08/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dev-himanshu08/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dev-himanshu08/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/dev-himanshu08/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dev-himanshu08/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dev-himanshu08/Leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/dev-himanshu08/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-himanshu08/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/dev-himanshu08/Leetcode/tree/master/0131-palindrome-partitioning) |
