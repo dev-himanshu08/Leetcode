@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dev-himanshu08/Leetcode/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/dev-himanshu08/Leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dev-himanshu08/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/dev-himanshu08/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0385-mini-parser](https://github.com/dev-himanshu08/Leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dev-himanshu08/Leetcode/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dev-himanshu08/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/dev-himanshu08/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0385-mini-parser](https://github.com/dev-himanshu08/Leetcode/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/dev-himanshu08/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/dev-himanshu08/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
