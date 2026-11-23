@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/dev-himanshu08/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0459-repeated-substring-pattern](https://github.com/dev-himanshu08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dev-himanshu08/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0567-permutation-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/dev-himanshu08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Array
 |  |
 | ------- |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/dev-himanshu08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0459-repeated-substring-pattern](https://github.com/dev-himanshu08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -923,4 +926,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dev-himanshu08/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0229-majority-element-ii) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dev-himanshu08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
