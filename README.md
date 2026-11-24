@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dev-himanshu08/Leetcode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/dev-himanshu08/Leetcode/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/dev-himanshu08/Leetcode/tree/master/0399-evaluate-division) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/dev-himanshu08/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/dev-himanshu08/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dev-himanshu08/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/dev-himanshu08/Leetcode/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/dev-himanshu08/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -677,11 +679,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dev-himanshu08/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/dev-himanshu08/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/dev-himanshu08/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dev-himanshu08/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1079-letter-tile-possibilities](https://github.com/dev-himanshu08/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-himanshu08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dev-himanshu08/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
